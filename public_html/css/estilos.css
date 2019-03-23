@@ -3,11 +3,12 @@ body {
 	font-family: Verdana;
 	width: 35%;
 	color: blue;
-        
+        border: 1px solid black;
 }
 
 header h1{
 	padding-left: 10px;
+                border: 1px solid black;
 }
 
 #menu-principal ul{
@@ -15,14 +16,17 @@ float: left;
 width: 200px;
 padding: 0;
 margin: 0;    
+        border: 1px solid black;
 }
 #contenido{
 	padding: 10px;
 	background-color: yellow;;
         margin-left: 200px;
+                border: 1px solid black;
 }
 #contenido p img {
 float: right;
+        border: 1px solid black;
 }
 
 footer {
@@ -31,10 +35,12 @@ footer {
 	padding-top: 10px;
 	margin-top: 15px;
 	text-align: center;
+                border: 1px solid black;
 }
 li{
     list-style-type: none;
     padding: 10px;
+            border: 1px solid black;
 }
 
 
